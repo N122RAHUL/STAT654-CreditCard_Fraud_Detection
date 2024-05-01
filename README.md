@@ -1,6 +1,6 @@
 # STAT654-CreditCard_Fraud_Detection
 
-This project aims to detect fraudulent credit card transactions using machine learning algorithms. The dataset used in this project is sourced from Kaggle and can be found at Kaggle - Credit Card Fraud Detection Dataset.
+This project aims to detect fraudulent credit card transactions using machine learning algorithms. The dataset used in this project is sourced from Kaggle and can be found at Kaggle - [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 
 ## Dataset Overview
 The dataset contains transactions made by credit cards in September 2013 by European cardholders. It consists of features such as transaction amount, time, and anonymized numerical features obtained through Principal Component Analysis (PCA) due to privacy concerns.
